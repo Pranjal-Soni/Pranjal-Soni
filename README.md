@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Machine Learning 
 - 🌱 I’m currently Data Science Intern
 - 💞️ I’m looking to collaborate on deep learning projects
-- 📫 How to reach me pranjal98soni@gmail.com
+- 📫 Contact me on  pranjal98soni@gmail.com
 
 <!---
 Pranjal-Soni/Pranjal-Soni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
