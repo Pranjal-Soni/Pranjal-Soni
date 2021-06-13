@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Machine Learning Projects
 Repo| Description | Link
-| :--- | ---: | :---:
+| :--- | :--- | :---:
 Fake Job Description Prediction | End-to-End project to identify the fradulent job descrioptions. | [Link](https://github.com/Pranjal-Soni/fake_jobs_description_prediction)
 Bitcoin Price Dependency on Stock Market  | Test various hypothesis to analyse How Bitcoin price movements are related to or affected by the various fluctuations in the Stock market | [Link](https://github.com/sourabh-burnwal/Bitcoin-Price-Dependency-on-Stock-Market)
 Bank Customer Churn Prediction | End-to-End project to predict the probability of a bank customer is going to exit from the bank or not | [Link](https://github.com/Pranjal-Soni/Bank-Customer-Churn-Prediction)
