@@ -12,9 +12,8 @@ You can click the Preview link to take a look at your changes.
 * Data Science Intern (6 months)
   * Built deep learning models for computer vision project using the Pytorch framework for recognizing text from the images
   * Worked with transfer learning technique and used pre-trained models like Resnet, Efficientnet, Nfnets and attention models
-  * Worked with transfer learning technique and used pre-trained models like Resnet, Efficientnet, and attention models
-  * Worked with transfer learning technique and used pre-trained models like Resnet, Efficientnet, and attention models
-** 
+  * Extract business keywords from articles using collocations and the RAKE algorithm
+  * Performed data collection, preprocessing and labeling. Improve running time of the python scripts to enhance efficiency of the programs
 
 #### Interest
 * Understanding Data And Generating Key Insights
