@@ -28,7 +28,15 @@ You can click the Preview link to take a look at your changes.
 
 ### Machine Learning Projects
 Repo| Description | Link
-| :--- | :--- | :---:
-Fake Job Description Prediction | End-to-End project to identify the fradulent job descrioptions. | [Link](https://github.com/Pranjal-Soni/fake_jobs_description_prediction)
+| :--- | :--- | :---
+Fake Job Description Prediction | End-to-End project to identify the fradulent job descrioptions.  | [Link](https://github.com/Pranjal-Soni/fake_jobs_description_prediction)
 Bitcoin Price Dependency on Stock Market  | Test various hypothesis to analyse How Bitcoin price movements are related to or affected by the various fluctuations in the Stock market | [Link](https://github.com/sourabh-burnwal/Bitcoin-Price-Dependency-on-Stock-Market)
 Bank Customer Churn Prediction | End-to-End project to predict the probability of a bank customer is going to exit from the bank or not | [Link](https://github.com/Pranjal-Soni/Bank-Customer-Churn-Prediction)
+
+### NLP Repo
+Repo| Description | Link
+| :--- | :--- | :---
+Fine Grained Sentiment Analysis of Mobile Reviews | Scrap the mobile reviews from amazon website and trained machine learning model using stanford tree sentiment data. Then predict the sentiments for the mobile reviews.| [Link](https://github.com/Pranjal-Soni/mobile_review_setiment_prediction)
+Frequent Entities Extraction and Sentiment Analysis of Tweets | Identifying the higly frequent entities and predicting sentiment of tweets for those entities using pretraied BERT model  | [Link](https://github.com/Pranjal-Soni/NLP-Notebooks/blob/main/Frequent%20Entities%20Extraction%20and%20Sentiment%20Analysis%20of%20Tweets.ipynb)
+Topic Modelling Of Medium Articles Using LDA  | Perform topic modelling of mediem blogs to divide the different categories according to the topics. LDA algorithm is used to perform the task. | [Link](https://github.com/Pranjal-Soni/NLP-Notebooks/blob/main/Topic%20Modelling%20Using%20LDA.ipynb)
+
