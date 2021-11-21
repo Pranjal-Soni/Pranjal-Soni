@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pranjal-Soni
 - 👀 I’m interested in Data Science and Machine Learning 
-- 🌱 I’m currently Data Science Intern
+- 🌱 I’m currently Jr. Data Scientist
 - 💞️ I’m looking to collaborate on deep learning projects
 - 📫 Contact me on  pranjal98soni@gmail.com
 
