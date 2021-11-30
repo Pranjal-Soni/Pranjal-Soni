@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 #### Interest
 * Understanding Data And Generating Key Insights
 * Solving business problems with Data Science
-* Work Automation
+* Automating repeated tasks
 
 #### Currently Working On:
 * Computer Vision Projects
