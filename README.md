@@ -9,6 +9,11 @@ Pranjal-Soni/Pranjal-Soni is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 #### Experience
+* Jr. Data Scientist (August 2021 - Present)
+  * Worked on digital signals, filtering, analyzing, and preparing the data. Applied various statistical methods to generate insights and model the signals
+  * Explicitly worked with python libraries like Pandas, Matplotlib, NumPy etc., to prepare, generate reports, and build dashboards using power bi to deliver business insights of the data
+  * Setup PostgreSQL database on the server, create pipelines for automation to dump the data, and performed data collection
+  
 * Data Science Intern (6 months)
   * Built deep learning models for computer vision project using the Pytorch framework for recognizing text from the images
   * Worked with transfer learning technique and used pre-trained models like Resnet, Efficientnet, Nfnets and attention models
