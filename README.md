@@ -9,7 +9,10 @@ Pranjal-Soni/Pranjal-Soni is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 #### Experience
-* Data Scientist (August 2021 - Present)
+* Data Scientist (August 2021 - August 2022)
+  * Working in supply chain domain and demand forecasting.
+  
+* Data Scientist (August 2021 - August 2022)
   * Worked on digital signals, filtering, analyzing, and preparing the data. Applied various statistical methods to generate insights and model the signals
   * Explicitly worked with python libraries like Pandas, Matplotlib, NumPy etc., to prepare, generate reports, and build dashboards using PowerBI to deliver business insights of the data
   * Setup PostgreSQL database on the server, create pipelines for automation to dump the data, and performed data collection
