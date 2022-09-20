@@ -9,7 +9,7 @@ Pranjal-Soni/Pranjal-Soni is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 #### Experience
-* Data Scientist (August 2021 - August 2022)
+* Data Scientist (August 2022 - Currently)
   * Working in supply chain domain and demand forecasting.
   
 * Data Scientist (August 2021 - August 2022)
