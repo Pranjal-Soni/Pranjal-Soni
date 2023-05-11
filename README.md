@@ -10,7 +10,9 @@ You can click the Preview link to take a look at your changes.
 --->
 #### Experience
 * Data Scientist (August 2022 - Currently)
-  * Working in supply chain domain and demand forecasting.
+  * Build an automated Demand Engine for demand forecasting engine for FMCG product.
+  * Developed a range-based forecasting model with the help of residual bootstrapping to reduce the negative bias and improve the accuracy of the forecast. 
+  * Performed data cleaning and exploratory data analysis and worked on classical series models, i.e. ARIMA, SARIMA, Prophet, and machine learning algorithms, i.e. Random Forest, XGB, LightGBM.
   
 * Data Scientist (August 2021 - August 2022)
   * Worked on digital signals, filtering, analyzing, and preparing the data. Applied various statistical methods to generate insights and model the signals
